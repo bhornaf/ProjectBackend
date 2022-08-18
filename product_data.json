@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "timestamp": "",
+        "name": "ditto",
+        "description": "Ditto reorganiza la estructura de sus células para adoptar\notras formas. Pero, como intente transformarse en algo\nguiándose por los datos que tenga almacenados en la\nmemoria, habrá detalles que se le escapen.",
+        "code": 132,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+        "price": 132,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "timestamp": "",
+        "name": "pikachu",
+        "description": "Levanta su cola para vigilar los alrededores. A veces,\npuede ser alcanzado por un rayo en esa pose.",
+        "code": 35,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+        "price": 35,
+        "stock": 1
+    }
+]
